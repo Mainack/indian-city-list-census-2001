@@ -4,7 +4,7 @@
 
 * Source: https://censusindia.gov.in/towns/town.aspx
 
-* The data is in **parsed_cityinfo.csv**
+* The data is in [**parsed_cityinfo.csv**](https://github.com/Mainack/indian-city-list-census-2001/blob/main/parsed_cityinfo.csv)
 
 * Statutory warning: We tried our best to ensure correctness while parsing the data from official source. However, we do not guarantee the correctness of the data, so if you use it, please do so at your own risk. 
 
