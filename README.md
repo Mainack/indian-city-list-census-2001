@@ -1,4 +1,4 @@
-# List of all Indian cities as relased in census 2001
+# List of all Indian cities/towns as identified in census 2001
 
 * This repository contains a parsed version of list of Indian cities as identified in census 2001 in csv format (original data was distributed in statewise pdfs)
 
